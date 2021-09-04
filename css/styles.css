@@ -19,7 +19,7 @@ body {
   box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
 }
 .sidebar {
-  width: 370px;
+  width: 500px;
   background-color: #104b37;
   padding-top: 40px;
   padding-bottom: 40px;
@@ -40,12 +40,21 @@ body {
   color: #fff;
   margin-bottom: 20px;
 }
+.contacts-list li {
+  list-style: none;
+}
 .contacts-tipe {
   color: #fff;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
   margin-right: 10px;
+}
+.contacts-icon {
+  margin-right: 10px;
+  width: 16px;
+  height: 16px;
+  fill: #fff;
 }
 .contacts-link {
   color: #5adbe4;
@@ -118,7 +127,7 @@ body {
   margin-right: 10px;
 }
 .project-name {
-  color: #ff2525;
+  color: #104b37;
   font-weight: 700;
 }
 .projects {
@@ -163,4 +172,5 @@ body {
   font-size: 16px;
   font-weight: 700;
   line-height: 24px;
+  color: #104b37;
 }
