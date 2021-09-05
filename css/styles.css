@@ -19,7 +19,7 @@ body {
   box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
 }
 .sidebar {
-  width: 500px;
+  width: 550px;
   background-color: #104b37;
   padding-top: 40px;
   padding-bottom: 40px;
@@ -28,10 +28,9 @@ body {
   width: 100%;
 }
 .contacts-container {
-  margin-left: 40px;
-  margin-right: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
   margin-top: 60px;
-  margin-bottom: 60px;
 }
 .sidebar-title {
   font-size: 22px;
