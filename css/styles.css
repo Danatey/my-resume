@@ -4,11 +4,6 @@
   box-sizing: border-box;
 }
 body {
-  background-color: #f5f7fa;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-top: 40px;
-  padding-bottom: 40px;
   font-family: Montserrat;
 }
 li {
@@ -20,12 +15,9 @@ h3 {
 .wrapper {
   background-color: #fff;
   display: flex;
-  max-width: 1200px;
-  margin: 0 auto;
-  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
 }
 .sidebar {
-  width: 550px;
+  width: 600px;
   background-color: #104b37;
   padding-top: 40px;
   padding-bottom: 40px;
